@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Arjun V S! 👋
 
-<!--
-**arjunvs2612/arjunvs2612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate **B.Tech student in Artificial Intelligence and Data Science** at **Sri Ramakrishna Institute of Technology, Coimbatore**. I focus on building smart data models, engineering intelligent systems, and extracting actionable insights from data.
 
-Here are some ideas to get you started:
+## 🎓 Education
+* **B.Tech - Artificial Intelligence & Data Science**
+  * Sri Ramakrishna Institute of Technology, Coimbatore
+  * Tamil Nadu, India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Skills
+* **Programming Languages:** Python, SQL
+* **Core Domains:** Machine Learning, Deep Learning, Data Analytics, Data Visualization
+
+## 🌐 Connect with Me
+* 💼 **LinkedIn:** [View My Professional Profile](https://www.linkedin.com/in/arjun-v-s-6613453a6)
+* 📧 **Email:** [Get in touch via Email](arjunvs2612@gmail.com)
+
